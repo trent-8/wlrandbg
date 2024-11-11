@@ -6,7 +6,7 @@ pkgdesc="A desktop background image tool with random image cycling for wlroots c
 arch=('any')
 url="https://github.com/trent-8/wlrandbg"
 license=('MIT')
-depends=('python' 'swww')
+depends=('python' 'swaybg')
 source=("wlrandbg.py")
 sha256sums=('SKIP')
 package() {

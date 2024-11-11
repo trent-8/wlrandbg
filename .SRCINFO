@@ -6,7 +6,7 @@ pkgbase = wlrandbg
 	arch = any
 	license = MIT
 	depends = python
-	depends = swww
+	depends = swaybg
 	source = wlrandbg.py
 	sha256sums = SKIP
 
